@@ -36,7 +36,7 @@ gem 'active_model_serializers', '~> 0.8.3'
 
 gem 'onebox', '1.8.53'
 
-gem 'http_accept_language', '~>2.0.5', require: false
+gem 'http_accept_language', '~>2.1.1', require: false
 
 gem 'ember-rails', '0.18.5'
 gem 'ember-source', '2.13.3'
